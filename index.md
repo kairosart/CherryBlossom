@@ -1,3 +1,4 @@
+![[index-20240724153000986.webp]]
 # CherryBlossom
 
 Boot-to-root with emphasis on crypto and password cracking.

@@ -36,8 +36,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af5128e5dd3eb675",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,19 +196,19 @@
   },
   "active": "dfbe9db2d8501639",
   "lastOpenFiles": [
-    "docs/PRIVILEGE ESCALATION/sudo -l command.html",
-    "docs/PRIVILEGE ESCALATION/Getting root's flag.html",
-    "docs/PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.html",
-    "docs/PRIVILEGE ESCALATION",
-    "docs/ENUMERATION/Steganography.html",
-    "docs/ENUMERATION/Samba access.html",
-    "docs/ENUMERATION/Journal.zip.html",
-    "docs/ENUMERATION/Enumeration.html",
-    "docs/ENUMERATION",
-    "docs/CRACKING/Opening the journal.ctz file (Journal flag).html",
-    "docs/CRACKING/Cracking a 7zip file.html",
+    "docs/EXPLOITATION/User and wordlist.html",
+    "docs/EXPLOITATION/Upgrade to johan's account from lily's SSH connection.html",
+    "docs/EXPLOITATION/SSH connection.html",
+    "docs/EXPLOITATION/Cracking Johan's hash with hashcat.html",
+    "docs/EXPLOITATION/Bruteforcing the login with Hydra.html",
+    "docs/EXPLOITATION",
     "PRIVILEGE ESCALATION/Getting root's flag.md",
     "PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.md",
+    "EXPLOITATION/User and wordlist.md",
+    "EXPLOITATION/Upgrade to johan's account from lily's SSH connection.md",
+    "EXPLOITATION/SSH connection.md",
+    "EXPLOITATION/Cracking Johan's hash with hashcat.md",
+    "EXPLOITATION/Bruteforcing the login with Hydra.md",
     "ENUMERATION/Steganography.md",
     "ENUMERATION/Samba access.md",
     "ENUMERATION/Journal.zip.md",
@@ -208,12 +217,13 @@
     "CRACKING/Cracking a 7zip file.md",
     "CRACKING/Crack the password with fcrackzip.md",
     "index.md",
+    "Images/index-20240724153000986.webp",
+    "docs/PRIVILEGE ESCALATION/sudo -l command.html",
+    "docs/PRIVILEGE ESCALATION/Getting root's flag.html",
+    "docs/PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.html",
+    "docs/PRIVILEGE ESCALATION",
+    "docs/ENUMERATION/Steganography.html",
     "PRIVILEGE ESCALATION/sudo -l command.md",
-    "EXPLOITATION/Upgrade to johan's account from lily's SSH connection.md",
-    "EXPLOITATION/Cracking Johan's hash with hashcat.md",
-    "EXPLOITATION/SSH connection.md",
-    "EXPLOITATION/Bruteforcing the login with Hydra.md",
-    "EXPLOITATION/User and wordlist.md",
     "README.md",
     "Web/lib/media/874d8b8e340f75575caa.svg",
     "web/web/web/lib/media/upgrade-to-johan's-account-from-lily's-ssh-connection-20240719144510488.webp",
@@ -223,7 +233,6 @@
     "web/web/web/lib/media/ssh-connection-20240719135650868.webp",
     "web/web/web/lib/media/ssh-connection-20240719135013694.webp",
     "web/web/web/lib/media/samba-access-20240522144335027.webp",
-    "web/web/web/lib/media/samba-access-20240522142815194.webp",
-    "web/web/web/lib/media/samba-access-20240522141535584.webp"
+    "web/web/web/lib/media/samba-access-20240522142815194.webp"
   ]
 }
