@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6059ad6f3019010c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f843650a0c2b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,14 +103,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           },
@@ -170,34 +187,35 @@
   },
   "active": "dfbe9db2d8501639",
   "lastOpenFiles": [
-    "Web/lib/metadata.json",
-    "Web/lib/media/874d8b8e340f75575caa.svg",
-    "Web/lib/media",
-    "Web/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "Web/lib/fonts/05b618077343fbbd92b7.ttf",
-    "Web/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "Web/lib/fonts/454577c22304619db035.ttf",
-    "Web/lib/fonts/70cc7ff27245e82ad414.ttf",
-    "Web/lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "Web/lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "Web/lib/fonts/b5f0f109bc88052d4000.woff2",
-    "Web/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/PRIVILEGE ESCALATION/sudo -l command.html",
+    "docs/PRIVILEGE ESCALATION/Getting root's flag.html",
+    "docs/PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.html",
+    "docs/PRIVILEGE ESCALATION",
+    "docs/ENUMERATION/Steganography.html",
+    "docs/ENUMERATION/Samba access.html",
+    "docs/ENUMERATION/Journal.zip.html",
+    "docs/ENUMERATION/Enumeration.html",
+    "docs/ENUMERATION",
+    "docs/CRACKING/Opening the journal.ctz file (Journal flag).html",
+    "docs/CRACKING/Cracking a 7zip file.html",
     "PRIVILEGE ESCALATION/Getting root's flag.md",
     "PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.md",
-    "EXPLOITATION/User and wordlist.md",
-    "EXPLOITATION/Upgrade to johan's account from lily's SSH connection.md",
-    "EXPLOITATION/SSH connection.md",
-    "EXPLOITATION/Cracking Johan's hash with hashcat.md",
-    "EXPLOITATION/Bruteforcing the login with Hydra.md",
-    "CRACKING/Opening the journal.ctz file (Journal flag).md",
-    "CRACKING/Cracking a 7zip file.md",
-    "CRACKING/Crack the password with fcrackzip.md",
-    "README.md",
     "ENUMERATION/Steganography.md",
     "ENUMERATION/Samba access.md",
     "ENUMERATION/Journal.zip.md",
     "ENUMERATION/Enumeration.md",
+    "CRACKING/Opening the journal.ctz file (Journal flag).md",
+    "CRACKING/Cracking a 7zip file.md",
+    "CRACKING/Crack the password with fcrackzip.md",
+    "index.md",
     "PRIVILEGE ESCALATION/sudo -l command.md",
+    "EXPLOITATION/Upgrade to johan's account from lily's SSH connection.md",
+    "EXPLOITATION/Cracking Johan's hash with hashcat.md",
+    "EXPLOITATION/SSH connection.md",
+    "EXPLOITATION/Bruteforcing the login with Hydra.md",
+    "EXPLOITATION/User and wordlist.md",
+    "README.md",
+    "Web/lib/media/874d8b8e340f75575caa.svg",
     "web/web/web/lib/media/upgrade-to-johan's-account-from-lily's-ssh-connection-20240719144510488.webp",
     "web/web/web/lib/media/ssh-connection-20240719143825932.webp",
     "web/web/web/lib/media/ssh-connection-20240719143114668.webp",
