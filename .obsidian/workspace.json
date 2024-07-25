@@ -198,6 +198,7 @@
   },
   "active": "dfbe9db2d8501639",
   "lastOpenFiles": [
+    "index.md",
     "PRIVILEGE ESCALATION/Getting root's flag.md",
     "PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.md",
     "EXPLOITATION/User and wordlist.md",
@@ -212,7 +213,6 @@
     "CRACKING/Opening the journal.ctz file (Journal flag).md",
     "CRACKING/Cracking a 7zip file.md",
     "CRACKING/Crack the password with fcrackzip.md",
-    "index.md",
     "Images/index-20240725062648532.webp",
     "docs/EXPLOITATION/User and wordlist.html",
     "docs/EXPLOITATION/Upgrade to johan's account from lily's SSH connection.html",

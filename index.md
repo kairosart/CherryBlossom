@@ -5,6 +5,10 @@ Boot-to-root with emphasis on crypto and password cracking.
 
 https://tryhackme.com/r/room/cherryblossom.
 
+---
+
+Write-up with the easier way of getting the flags.
+
 **STEPS**
 
 - [[Enumeration]]
