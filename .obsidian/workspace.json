@@ -6,6 +6,7 @@
       {
         "id": "ee7a8046aca57e64",
         "type": "tabs",
+        "dimension": 68.97208121827411,
         "children": [
           {
             "id": "dfbe9db2d8501639",
@@ -24,6 +25,7 @@
       {
         "id": "6059ad6f3019010c",
         "type": "tabs",
+        "dimension": 31.027918781725887,
         "children": [
           {
             "id": "e7f843650a0c2b0f",
@@ -196,12 +198,6 @@
   },
   "active": "dfbe9db2d8501639",
   "lastOpenFiles": [
-    "docs/EXPLOITATION/User and wordlist.html",
-    "docs/EXPLOITATION/Upgrade to johan's account from lily's SSH connection.html",
-    "docs/EXPLOITATION/SSH connection.html",
-    "docs/EXPLOITATION/Cracking Johan's hash with hashcat.html",
-    "docs/EXPLOITATION/Bruteforcing the login with Hydra.html",
-    "docs/EXPLOITATION",
     "PRIVILEGE ESCALATION/Getting root's flag.md",
     "PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.md",
     "EXPLOITATION/User and wordlist.md",
@@ -217,12 +213,18 @@
     "CRACKING/Cracking a 7zip file.md",
     "CRACKING/Crack the password with fcrackzip.md",
     "index.md",
+    "Images/index-20240725062648532.webp",
+    "docs/EXPLOITATION/User and wordlist.html",
+    "docs/EXPLOITATION/Upgrade to johan's account from lily's SSH connection.html",
+    "docs/EXPLOITATION/SSH connection.html",
+    "docs/EXPLOITATION/Cracking Johan's hash with hashcat.html",
+    "docs/EXPLOITATION/Bruteforcing the login with Hydra.html",
+    "docs/EXPLOITATION",
     "Images/index-20240724153000986.webp",
     "docs/PRIVILEGE ESCALATION/sudo -l command.html",
     "docs/PRIVILEGE ESCALATION/Getting root's flag.html",
     "docs/PRIVILEGE ESCALATION/Exploit sudo -l vulnerability.html",
     "docs/PRIVILEGE ESCALATION",
-    "docs/ENUMERATION/Steganography.html",
     "PRIVILEGE ESCALATION/sudo -l command.md",
     "README.md",
     "Web/lib/media/874d8b8e340f75575caa.svg",
@@ -232,7 +234,6 @@
     "web/web/web/lib/media/ssh-connection-20240719135956926.webp",
     "web/web/web/lib/media/ssh-connection-20240719135650868.webp",
     "web/web/web/lib/media/ssh-connection-20240719135013694.webp",
-    "web/web/web/lib/media/samba-access-20240522144335027.webp",
-    "web/web/web/lib/media/samba-access-20240522142815194.webp"
+    "web/web/web/lib/media/samba-access-20240522144335027.webp"
   ]
 }
