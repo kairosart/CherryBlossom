@@ -9,7 +9,7 @@
   "faviconPath": "",
   "documentWidth": "40em",
   "sidebarWidth": "20em",
-  "minOutlineCollapse": 1,
+  "minOutlineCollapse": 2,
   "startOutlineCollapsed": false,
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
@@ -18,7 +18,7 @@
   "minifyHTML": true,
   "makeNamesWebStyle": false,
   "onlyExportModified": true,
-  "deleteOldFiles": false,
+  "deleteOldFiles": true,
   "addThemeToggle": false,
   "addOutline": false,
   "addFileNav": true,
@@ -38,7 +38,7 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "showDefaultTreeIcons": true,
+  "showDefaultTreeIcons": false,
   "emojiStyle": "Native",
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
@@ -47,9 +47,10 @@
   "filesToExport": [
     [
       "CRACKING",
+      "ENUMERATION",
       "EXPLOITATION",
       "PRIVILEGE ESCALATION",
-      "README.md"
+      "index.md"
     ]
   ]
 }
